@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/tiyan.png</file>
+        <file>icon/tiyan.ico</file>
+    </qresource>
+</RCC>
